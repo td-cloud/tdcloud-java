@@ -1,5 +1,5 @@
-## tdcloud Java SDK (Open Source)
-[![Build Status](https://travis-ci.org/tdcloud/tdcloud-java.svg?branch=master)](https://travis-ci.org/tdcloud/tdcloud-java)
+## BeeCloud Java SDK (Open Source)
+[![Build Status](https://travis-ci.org/beecloud/beecloud-java.svg?branch=master)](https://travis-ci.org/beecloud/beecloud-java)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg) ![v3.1.6](https://img.shields.io/badge/Version-v3.1.6-blue.svg) 
 
 ## 简介
@@ -24,7 +24,7 @@ tdcloud网关支付
 ## 流程
 
 下图为整个支付的流程:
-![pic](http://7xavqo.com1.z0.glb.clouddn.com/img-tdcloud%20sdk.png)
+![pic](http://7xavqo.com1.z0.glb.clouddn.com/img-beecloud%20sdk.png)
 
 
 步骤①：**（从网页服务器端）发送订单信息**  
