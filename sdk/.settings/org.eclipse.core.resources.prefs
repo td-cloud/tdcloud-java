@@ -1,7 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
-encoding//src/main/java/cn/beecloud/BCPay.java=UTF-8
-encoding//src/main/java/cn/beecloud/BCUtilPrivate.java=UTF-8
-encoding//src/main/java/cn/beecloud/ValidationUtil.java=UTF-8
+encoding//src/main/java/com/tangdi/tdcloud/TCPay.java=UTF-8
+encoding//src/main/java/com/tangdi/tdcloud/TCUtilPrivate.java=UTF-8
+encoding//src/main/java/com/tangdi/tdcloud/ValidationUtil.java=UTF-8
 encoding//src/test/java=UTF-8
 encoding/<project>=UTF-8

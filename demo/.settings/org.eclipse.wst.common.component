@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="PC-Web-Pay-Demo">
-        <wb-resource deploy-path="/" source-path="/WebRoot"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/PC-Web-Pay-Demo/build/classes"/>
-        <property name="context-root" value="PC-Web-Pay-Demo"/>
+    <wb-module deploy-name="Tdcloud-PC-Demo">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/Tdcloud-PC-Demo/build/classes"/>
+        <property name="context-root" value="Tdcloud-PC-Demo"/>
     </wb-module>
 </project-modules>
